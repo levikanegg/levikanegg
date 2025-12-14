@@ -4,12 +4,12 @@
 
 **Desenvolvedor Full Stack | Backend & Frontend | Landing Pages & Sites | SaaS | Sistema IPTV | FiveM & RedM | Automação & Bots**
 
-[![GitHub followers](https://img.shields.io/github/followers/IsaiasGuedes?style=social)](https://github.com/IsaiasGuedes)
-[![GitHub stars](https://img.shields.io/github/stars/IsaiasGuedes?style=social)](https://github.com/IsaiasGuedes)
+[![GitHub followers](https://img.shields.io/github/followers/levikanegg?style=social)](https://github.com/levikanegg)
+[![GitHub stars](https://img.shields.io/github/stars/levikanegg?style=social)](https://github.com/levikanegg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasGuedes&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levikanegg&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaiasGuedes&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=levikanegg&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -124,9 +124,9 @@ Meus projetos demonstram soluções robustas, seguras e escaláveis aplicadas em
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsaiasGuedes&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=levikanegg&theme=dark&hide_border=true)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=IsaiasGuedes&theme=github-dark&hide_border=true&area=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=levikanegg&theme=github-dark&hide_border=true&area=true)
 
 </div>
 
@@ -149,11 +149,11 @@ Meus projetos demonstram soluções robustas, seguras e escaláveis aplicadas em
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaiasGuedes)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/IsaiasGuedes)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/levikanegg)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WVT4GyUVgq)
 
-**💬 Discord:** `IsaiasGuedes`  
-**📧 Contato profissional via GitHub**
+**💬 Discord:** `levikanegg`  
+**📧 Contato profissional via GitHub ou Discord**
 
 </div>
 
@@ -163,7 +163,6 @@ Meus projetos demonstram soluções robustas, seguras e escaláveis aplicadas em
 
 ⭐ **Sempre aberto a novos desafios, parcerias e projetos que envolvam tecnologia, inovação e performance.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=IsaiasGuedes&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=levikanegg&color=blueviolet&style=flat-square)
 
 </div>
-
